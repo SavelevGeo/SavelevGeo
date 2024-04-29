@@ -14,9 +14,8 @@
 
 * +79533473027
 * savelevgeo.post@gmail.com
-* Personal Website (Notion) [https://savelevgeo.notion.site/GEORGIJ-SAVELEV-6a3dd718ea0a4fb5b68941b5442fb678?pvs=4][notion]
-* Xing
-[https://www.xing.com/profile/Georgii_Savelev/web_profiles][xing]
+* [Personal Website (Notion)][notion]
+* [Xing][xing]
 
 ### Personal statement
 
