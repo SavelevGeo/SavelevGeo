@@ -1,21 +1,31 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>GEORGIJ SAVELEV</title>
 <meta charset="utf-8">
 <style>
-    h2 {text-align: center;}
+    body {max-width: 600px; margin: 0 auto; font-family: ubuntu, arial, sans-serif;}
+    h2 {text-align: center; margin-top: 30px;}
+    p {text-align: justify;}
+    .contacts ul {
+        display: flex; justify-content: space-around;
+        list-style-type: none;
+        padding: 0; margin: 0;    
+    }
 </style>
 </head>
-<body>
-<h2>GEORGIJ SAVELEV</h2>
+
+## GEORGIJ SAVELEV
+
+<section class="contacts">
 
 ### Contacts
 
-* +79533473027
-* savelevgeo.post@gmail.com
+* [+79533473027](https://t.me/+79533473027)
+* [savelevgeo.post@gmail.com](mailto:savelevgeo.post@gmail.com)
 * [Personal Website (Notion)][notion]
 * [Xing][xing]
+
+</section>
 
 ### Personal statement
 
@@ -51,7 +61,6 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 	 * Offered expert guidance to field geologists in Qfield and QGIS, facilitating precise geospatial data manipulation, cartographic outputs, and calculated rasters.
 	 * Employed GIS software to accurately model drainage basins, utilizing geospatial applications for dataset creation and clear communication of results.
 
-</body>
 </html>
 
 [notion]: https://savelevgeo.notion.site/GEORGIJ-SAVELEV-6a3dd718ea0a4fb5b68941b5442fb678?pvs=4
