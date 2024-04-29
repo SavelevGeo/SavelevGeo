@@ -1,5 +1,14 @@
-
-## GEORGIJ SAVELEV
+<!DOCTYPE html>
+<html>
+<head>
+<title>GEORGIJ SAVELEV</title>
+<meta charset="utf-8">
+<style>
+    h2 {text-align: center;}
+</style>
+</head>
+<body>
+<h2>GEORGIJ SAVELEV</h2>
 
 ### Contacts
 
@@ -43,7 +52,8 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 	 * Offered expert guidance to field geologists in Qfield and QGIS, facilitating precise geospatial data manipulation, cartographic outputs, and calculated rasters.
 	 * Employed GIS software to accurately model drainage basins, utilizing geospatial applications for dataset creation and clear communication of results.
 
-
+</body>
+</html>
 
 [notion]: https://savelevgeo.notion.site/GEORGIJ-SAVELEV-6a3dd718ea0a4fb5b68941b5442fb678?pvs=4
 [xing]: https://www.xing.com/profile/Georgii_Savelev/web_profiles
