@@ -1,0 +1,48 @@
+body {
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: ubuntu, arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+p {
+  text-align: justify;
+}
+
+.contacts {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.contacts h3 {
+  margin-top: 0;
+}
+
+.contacts ul {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-around;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contacts li:nth-of-type(1) {
+  order: 1;
+}
+
+.contacts li:nth-of-type(2) {
+  order: 3;
+}
+
+.contacts li:nth-of-type(3) {
+  order: 2;
+}
+
+.contacts li:nth-of-type(4) {
+  order: 4;
+}
