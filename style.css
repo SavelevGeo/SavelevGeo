@@ -6,12 +6,37 @@ body {
 
 h2 {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 10px;
   border-bottom: 1px solid rgb(0 0 0 / 25%);
+}
+
+summary h3 {
+  display: inline;
+  user-select: none;
 }
 
 p {
   text-align: justify;
+}
+
+/* unvisited link */
+a:link {
+  color: gray;
+}
+
+/* visited link */
+a:visited {
+  color: gray;
+}
+
+/* mouse over link */
+a:hover {
+  color: lightgray;
+}
+
+/* selected link */
+a:active {
+  color: lightgray;
 }
 
 .contacts {
@@ -19,17 +44,19 @@ p {
   grid-template-columns: auto auto;
 }
 
-.contacts h3 {
-  margin-top: 0;
-}
-
 .contacts ul {
   display: grid;
   grid-template-columns: auto auto;
+  column-gap: 25px;
   justify-content: space-around;
   list-style-type: none;
   padding: 0;
   margin: 0;
+  margin-bottom: 15px;
+}
+
+.contacts li {
+  text-align: left;
 }
 
 .contacts li:nth-of-type(1) {

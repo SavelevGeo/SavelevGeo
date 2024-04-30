@@ -6,50 +6,60 @@
 
 ## GEORGIJ SAVELEV
 
-<section class="contacts">
+<details class="contacts">
 
-### Contacts
+<summary><h3>Contacts</h3></summary>
 
-* [+79533473027](https://t.me/+79533473027)
 * [savelevgeo.post@gmail.com](mailto:savelevgeo.post@gmail.com)
+* [+79533473027](https://t.me/+79533473027)
 * [Personal Website (Notion)][notion]
 * [Xing][xing]
 
-</section>
+</details>
 
-### Personal statement
+<details open>
+
+<summary><h3>Personal statement</h3></summary>
 
 Motivated and experienced GIS professional with technical knowledge in ESRI ArcGIS and QGIS. Specializing in the development of web GIS solutions for geological projects, I am a Database Specialist skilled in collecting and analyzing geospatial data using advanced Geographic Information Systems (GIS) techniques.
 
 I optimize the process by scripting in Python/VBA and running SQL queries for data tracking and geographic data manipulation. With five years of experience in the field, I have successfully completed numerous projects and delivered high-quality results, integrating GIS into geology.
 
-### Key skils
+</details>
 
-* ArcGIS, QGIS. Advanced GIS techniques
+<details open>
+
+<summary><h3>Key skils</h3></summary>
+
+* ArcGIS, QGIS. Advanced&nbsp;GIS&nbsp;techniques
 * Python3 scripting
     * pyqgis, arcpy, Fiona, geopandas, rasterio, GDAL
-    * pandas, plotly, multiprocessing, FastAPI, uvicorn, requests, Google Colab ([pet project][ics_lookup])
+    * pandas, plotly, multiprocessing, FastAPI, uvicorn, requests, Google&nbsp;Colab ([pet&nbsp;project][ics_lookup])
     * tkinter, PyQt
-* SQL queries within SQLite, GeoPackage, MS SQL Server, PostgreSQL, MS Access databases
+* SQL queries within SQLite, GeoPackage, MS&nbsp;SQL&nbsp;Server, PostgreSQL, MS&nbsp;Access&nbsp;databases
 * HTML, CSS, Javascript
-    * Vue ([about sample app][about_gisogd]), Bootstrap
-    * OpenLayers ([pet project][budiswebgeoref] - [source code][budiswebgeoref_sourcecode]), Leaflet, Mapbox ([pet project][geovacanciesmap])
-* Cross-platform development with Apache Cordova ([pet project][ghandy])
+    * Vue ([about&nbsp;sample&nbsp;app][about_gisogd]), Bootstrap
+    * OpenLayers ([pet&nbsp;project][budiswebgeoref] - [source&nbsp;code][budiswebgeoref_sourcecode]), Leaflet, Mapbox ([pet&nbsp;project][geovacanciesmap])
+* Cross-platform development with Apache&nbsp;Cordova ([pet&nbsp;project][ghandy])
 * Spatial data analysis
 * Web-based GIS services (Mapbox, QGIS Cloud)
 * Drone Photogrammetry data processing
 
+</details>
+
 ### Employment history
 
-* Archive Data Specialist &mdash; at [Polyus][polyus] (Polyus Geoservice) &mdash; from 15.06.2022 to 15.03.2024
+#### Archive Data Specialist 
 
-	 * Implemented efficient data retrieval techniques to manage and organize geological research and literature data, resulting in a 45% reduction in search time for geologists
-	 * Utilized ArcGIS-ESRI to analyze archive data for specified areas, showcasing GIS experience.
-	 * Leveraged problem-solving skills and communication abilities to design visually appealing cartographic products, incorporating web-scraping and APIs for geographic data retrieval.
-	 * Collaborated with a team, utilizing GIS expertise to enhance the data request process by creating user-friendly QGIS plugins and python scripts.
-	 * Utilized GIS experience to create user-friendly database templates, manage geospatial data, and prepare basemaps for field data collection using Qfield.
-	 * Offered expert guidance to field geologists in Qfield and QGIS, facilitating precise geospatial data manipulation, cartographic outputs, and calculated rasters.
-	 * Employed GIS software to accurately model drainage basins, utilizing geospatial applications for dataset creation and clear communication of results.
+[Polyus][polyus] (Polyus Geoservice) &mdash; from 15.06.2022 to 15.03.2024
+
+* Implemented efficient data retrieval techniques to manage and organize geological research and literature data, resulting in a 45% reduction in search time for geologists
+* Utilized ArcGIS-ESRI to analyze archive data for specified areas, showcasing GIS experience.
+* Leveraged problem-solving skills and communication abilities to design visually appealing cartographic products, incorporating web-scraping and APIs for geographic data retrieval.
+* Collaborated with a team, utilizing GIS expertise to enhance the data request process by creating user-friendly QGIS plugins and python scripts.
+* Utilized GIS experience to create user-friendly database templates, manage geospatial data, and prepare basemaps for field data collection using Qfield.
+* Offered expert guidance to field geologists in Qfield and QGIS, facilitating precise geospatial data manipulation, cartographic outputs, and calculated rasters.
+* Employed GIS software to accurately model drainage basins, utilizing geospatial applications for dataset creation and clear communication of results.
 
 </html>
 
