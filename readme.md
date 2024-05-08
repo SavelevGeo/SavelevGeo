@@ -4,11 +4,13 @@
 <link rel="stylesheet" href="style.css">
 </head>
 
-## GEORGIJ SAVELEV
+# GEORGIJ SAVELEV
 
-<details class="contacts">
+<details class="contacts" id="contacts">
+<summary>
 
-<summary><h3>Contacts</h3></summary>
+### Contacts
+</summary>
 
 * [savelevgeo.post@gmail.com](mailto:savelevgeo.post@gmail.com)
 * [+79533473027](https://t.me/+79533473027)
@@ -17,9 +19,11 @@
 
 </details>
 
-<details open>
+<details id="personal_statement">
+<summary>
 
-<summary><h3>Personal statement</h3></summary>
+### Personal statement
+</summary>
 
 Motivated and experienced GIS professional with technical knowledge in ESRI ArcGIS and QGIS. Specializing in the development of web GIS solutions for geological projects, I am a Database Specialist skilled in collecting and analyzing geospatial data using advanced Geographic Information Systems (GIS) techniques.
 
@@ -28,8 +32,9 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 </details>
 
 <details open>
+<summary>
 
-<summary><h3>Key skils</h3></summary>
+### Key skils</summary>
 
 * ArcGIS, QGIS. Advanced&nbsp;GIS&nbsp;techniques
 * Python3 scripting
@@ -47,9 +52,13 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 
 </details>
 
-### Employment history
+## Employment history
 
-#### Archive Data Specialist 
+<details open>
+<summary>
+
+### Archive Data Specialist
+</summary>
 
 [Polyus][polyus] (Polyus Geoservice) &mdash; from 15.06.2022 to 15.03.2024
 
@@ -61,6 +70,24 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 * Offered expert guidance to field geologists in Qfield and QGIS, facilitating precise geospatial data manipulation, cartographic outputs, and calculated rasters.
 * Employed GIS software to accurately model drainage basins, utilizing geospatial applications for dataset creation and clear communication of results.
 
+</details>
+
+<details open>
+<summary>
+
+### Geologist</summary>
+
+[Geological Research Institute (VSEGEI)][vsegei], Methodic dep. (Saint-Petersburg, Russia), field work in Magadan region (north-eastern Asia) &mdash; from 01.11.2016 to 15.06.2022
+
+* Conducted detailed analysis of remote sensing data, with a focus on satellite data, utilizing Python scripts for optimized work. Developed a standalone app, employing Python, to generate weather messages for SMS transmission to satellite phones.
+* Demonstrated expertise in spatial analysis and cartography by creating and preparing various maps in ArcGIS and QGIS.
+* Methodically organized and managed the GIS database, utilizing SQL for data storage.
+* Proficient in Python for data analysis, utilizing it to enhance efficiency and accuracy
+* Utilized CorelDraw, GIMP, and Inkscape for graphics creation
+* Methodically organized data stored in MS Access databases using SQL, in Excel and Word documents with Python.
+* Troubleshooting topology errors. Trained and consulted colleagues on GIS database management. Utilized 3D-visualization. Created technical reports.
+
+</details>
 </html>
 
 [notion]: https://savelevgeo.notion.site/GEORGIJ-SAVELEV-6a3dd718ea0a4fb5b68941b5442fb678?pvs=4
@@ -72,3 +99,4 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 [geovacanciesmap]: https://savelevgeo.github.io/geovacancies-map/
 [ghandy]: https://github.com/SavelevGeo/ghandy
 [polyus]: https://polyus.com/en/
+[vsegei]: https://vsegei.ru/en/
