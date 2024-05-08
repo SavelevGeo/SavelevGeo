@@ -7,10 +7,7 @@
 # GEORGIJ SAVELEV
 
 <details class="contacts" id="contacts">
-<summary>
-
-### Contacts
-</summary>
+<summary><h3>Contacts</h3></summary>
 
 * [savelevgeo.post@gmail.com](mailto:savelevgeo.post@gmail.com)
 * [+79533473027](https://t.me/+79533473027)
@@ -20,10 +17,7 @@
 </details>
 
 <details id="personal_statement">
-<summary>
-
-### Personal statement
-</summary>
+<summary><h3>Personal statement</h3></summary>
 
 Motivated and experienced GIS professional with technical knowledge in ESRI ArcGIS and QGIS. Specializing in the development of web GIS solutions for geological projects, I am a Database Specialist skilled in collecting and analyzing geospatial data using advanced Geographic Information Systems (GIS) techniques.
 
@@ -32,9 +26,7 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 </details>
 
 <details open>
-<summary>
-
-### Key skils</summary>
+<summary><h3>Key skils</h3></summary>
 
 * ArcGIS, QGIS. Advanced&nbsp;GIS&nbsp;techniques
 * Python3 scripting
@@ -55,10 +47,7 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 ## Employment history
 
 <details>
-<summary>
-
-### Archive Data Specialist
-</summary>
+<summary><h3>Archive Data Specialist</h3></summary>
 
 [Polyus][polyus] (Polyus Geoservice) &mdash; from 15.06.2022 to 15.03.2024
 
@@ -73,9 +62,7 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 </details>
 
 <details>
-<summary>
-
-### Geologist</summary>
+<summary><h3>Geologist</h3></summary>
 
 [Geological Research Institute (VSEGEI)][vsegei], Methodic dep. (Saint-Petersburg, Russia), field work in Magadan region (north-eastern Asia) &mdash; from 01.11.2016 to 15.06.2022
 
@@ -92,33 +79,27 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 ## Education and science
 
 <details>
-<summary>
-
-### PhD student in Geology (not finished)</summary>
+<summary><h3>PhD student in Geology (not finished)</h3></summary>
 [Geological Research Institute (VSEGEI)][vsegei] &mdash; from 01.11.2018 to 15.06.2022
 </details>
 
 <details>
-<summary>
-
-### Master’s Degree in Geology</summary>
+<summary><h3>Master’s Degree in Geology</h3></summary>
 [St. Petersburg state university, Institute of Earth sciences][spbu], Regional geology dep. &mdash; from 01.10.2016 to 15.06.2018
 </details>
 
 <details>
-<summary>
-
-### Bachelor’s Degree in Geology</summary>
+<summary><h3>Bachelor’s Degree in Geology</h3></summary>
 [St. Petersburg state university, Institute of Earth sciences][spbu], Regional geology dep. &mdash; from 01.10.2012 to 15.06.2016
 </details>
 
 <details>
-<summary>
+<summary><h3>Published papers</h3></summary>
 
-### Published papers</summary>
 * M. A. Shishkin (VSEGEI), S. I. Shkarubo (JSC MAGE),
 A. G. Konnov, G. V. Savel'ev (VSEGEI). Tectonics of the Polar Urals – Novaya Zemlya fold belts // [Regional Geology and Metallogeny, 2021. – № 86. – P. 5–10. – DOI: 10.52349/0869-7892_2021_86_05–10][vsegei_paper]
 * Saldin V., Konnov Artem, Saveliev Georgiy. The Lower Permian Marine Succession of Pay-Khoy: Correlations and Problems in Stratigraphy // [Sedimentary Earth Systems: Stratigraphy, Geochronology, Petroleum Resources. PROCEEDINGS Kazan Golovkinsky Stratigraphic Meeting, 2019. – P. 218–222. – DOI: 10.26352/D924F5037][kazan_paper]
+
 </details>
 
 </html>
