@@ -4,12 +4,12 @@
 <link rel="stylesheet" href="style.css">
 </head>
 
-# GEORGIJ SAVELEV
+## GEORGIJ SAVELEV
 
 this cv: [as webpage](https://savelevgeo.github.io/SavelevGeo/)
 
 <details class="contacts" id="contacts">
-<summary><h3>Contacts</h3></summary>
+<summary>Contacts</summary>
 
 * [savelevgeo.post@gmail.com](mailto:savelevgeo.post@gmail.com)
 * [+79533473027](https://t.me/+79533473027)
@@ -19,7 +19,7 @@ this cv: [as webpage](https://savelevgeo.github.io/SavelevGeo/)
 </details>
 
 <details id="personal_statement">
-<summary><h3>Personal statement</h3></summary>
+<summary>Personal statement</summary>
 
 Motivated and experienced GIS professional with technical knowledge in ESRI ArcGIS and QGIS. Specializing in the development of web GIS solutions for geological projects, I am a Database Specialist skilled in collecting and analyzing geospatial data using advanced Geographic Information Systems (GIS) techniques.
 
@@ -27,8 +27,8 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 
 </details>
 
-<details open>
-<summary><h3>Key skils</h3></summary>
+<details>
+<summary>Key skils</summary>
 
 * ArcGIS, QGIS. Advanced&nbsp;GIS&nbsp;techniques
 * Python3 scripting
@@ -46,10 +46,10 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 
 </details>
 
-## Employment history
+### Employment history
 
 <details>
-<summary><h3>Archive Data Specialist</h3></summary>
+<summary>Archive Data Specialist</summary>
 
 [Polyus][polyus] (Polyus Geoservice) &mdash; from 15.06.2022 to 15.03.2024
 
@@ -64,7 +64,7 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 </details>
 
 <details>
-<summary><h3>Geologist</h3></summary>
+<summary>Geologist</summary>
 
 [Geological Research Institute (VSEGEI)][vsegei], Methodic dep. (Saint-Petersburg, Russia), field work in Magadan region (north-eastern Asia) &mdash; from 01.11.2016 to 15.06.2022
 
@@ -78,22 +78,22 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 
 </details>
 
-## Education and science
+### Education and science
 
 <details>
-<summary><h3>Master’s Degree in Geology</h3></summary>
+<summary>Master’s Degree in Geology</summary>
    
 [St. Petersburg state university, Institute of Earth sciences][spbu], Regional geology dep. &mdash; from 01.10.2016 to 15.06.2018
 </details>
 
 <details>
-<summary><h3>Bachelor’s Degree in Geology</h3></summary>
+<summary>Bachelor’s Degree in Geology</summary>
    
 [St. Petersburg state university, Institute of Earth sciences][spbu], Regional geology dep. &mdash; from 01.10.2012 to 15.06.2016
 </details>
 
 <details>
-<summary><h3>Published papers</h3></summary>
+<summary>Published papers</summary>
 
 * M. A. Shishkin (VSEGEI), S. I. Shkarubo (JSC MAGE),
 A. G. Konnov, G. V. Savel'ev (VSEGEI). Tectonics of the Polar Urals – Novaya Zemlya fold belts // [Regional Geology and Metallogeny, 2021. – № 86. – P. 5–10. – DOI: 10.52349/0869-7892_2021_86_05–10][vsegei_paper]
