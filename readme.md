@@ -6,6 +6,8 @@
 
 # GEORGIJ SAVELEV
 
+this cv: [as webpage](https://savelevgeo.github.io/SavelevGeo/)
+
 <details class="contacts" id="contacts">
 <summary><h3>Contacts</h3></summary>
 
