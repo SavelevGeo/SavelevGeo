@@ -81,17 +81,14 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 ## Education and science
 
 <details>
-<summary><h3>PhD student in Geology (not finished)</h3></summary>
-[Geological Research Institute (VSEGEI)][vsegei] &mdash; from 01.11.2018 to 15.06.2022
-</details>
-
-<details>
 <summary><h3>Master’s Degree in Geology</h3></summary>
+   
 [St. Petersburg state university, Institute of Earth sciences][spbu], Regional geology dep. &mdash; from 01.10.2016 to 15.06.2018
 </details>
 
 <details>
 <summary><h3>Bachelor’s Degree in Geology</h3></summary>
+   
 [St. Petersburg state university, Institute of Earth sciences][spbu], Regional geology dep. &mdash; from 01.10.2012 to 15.06.2016
 </details>
 
