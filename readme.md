@@ -101,6 +101,13 @@ A. G. Konnov, G. V. Savel'ev (VSEGEI). Tectonics of the Polar Urals – Novaya Z
 
 </details>
 
+### Other skills and achievements
+
+<details>
+<summary>Drone mapping</summary>
+Demonstrated expertise in drone mapping and geological research, proficiently utilizing GIS workflows. Produced 10 detailed orthomosaics, covering up to 5 km2, and prepared technical reports with precision.
+</details>
+
 </html>
 
 [notion]: https://savelevgeo.notion.site/GEORGIJ-SAVELEV-6a3dd718ea0a4fb5b68941b5442fb678?pvs=4
