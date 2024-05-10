@@ -105,7 +105,39 @@ A. G. Konnov, G. V. Savel'ev (VSEGEI). Tectonics of the Polar Urals – Novaya Z
 
 <details>
 <summary>Drone mapping</summary>
-Demonstrated expertise in drone mapping and geological research, proficiently utilizing GIS workflows. Produced 10 detailed orthomosaics, covering up to 5 km2, and prepared technical reports with precision.
+   
+* Demonstrated expertise in drone mapping and geological research, proficiently utilizing GIS workflows.
+* Produced 10 detailed orthomosaics, covering up to 5 km2, and prepared technical reports with precision.
+</details>
+
+<details>
+<summary>Field expeditions organization and conduction</summary>
+   
+* Organized and conducted field expeditions, including employee recruitment and training sessions.
+* Successfully led two three-month long autonomous expeditions as a capable team leader, overseeing 4 subordinates.
+* Contributed as a valuable team member in five two-to-three month long geological projects, showcasing strong field proficiency and leadership qualities.
+</details>
+
+### Language skills
+
+<details>
+<summary>Russian | English | German</summary>
+
+* Russian (native)
+* English (fluent B2)
+* German (intermediate B1)
+* French (basic A1)
+
+</details>
+
+### Extracurricular activities
+
+<details>
+<summary>Bass | Private lessons | Hiking</summary>
+   
+* Bass player at “Проект Спокойствие” (2012-2020) https://soundcloud.com/proekt_spokoistvie/
+* Private geography, mathematics, chemistry lessons for school students (2013-2019)
+* Hiking enthusiast (four trips a year) (2000-2013)
 </details>
 
 </html>
