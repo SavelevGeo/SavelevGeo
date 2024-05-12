@@ -1,20 +1,22 @@
 <html>
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GEORGIJ SAVELEV</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
 ## GEORGIJ SAVELEV
 
-this cv: [as webpage](https://savelevgeo.github.io/SavelevGeo/)
+<span id="this_as_webpage">this cv: [as webpage](https://savelevgeo.github.io/SavelevGeo/)</span>
 
 <details class="contacts" id="contacts">
 <summary>Contacts</summary>
 
-* [savelevgeo.post@gmail.com](mailto:savelevgeo.post@gmail.com)
-* [+79533473027](https://t.me/+79533473027)
-* [Personal Website (Notion)][notion]
-* [Xing][xing]
+- [savelevgeo.post@gmail.com](mailto:savelevgeo.post@gmail.com)
+- [+79533473027](https://t.me/+79533473027)
+- [Personal Website (Notion)][notion]
+- [Xing][xing]
 
 </details>
 
@@ -30,19 +32,19 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 <details>
 <summary>Key skils</summary>
 
-* ArcGIS, QGIS. Advanced&nbsp;GIS&nbsp;techniques
-* Python3 scripting
-    * pyqgis, arcpy, Fiona, geopandas, rasterio, GDAL
-    * pandas, plotly, multiprocessing, FastAPI, uvicorn, requests, Google&nbsp;Colab ([pet&nbsp;project][ics_lookup])
-    * tkinter, PyQt
-* SQL queries within SQLite, GeoPackage, MS&nbsp;SQL&nbsp;Server, PostgreSQL, MS&nbsp;Access&nbsp;databases
-* HTML, CSS, Javascript
-    * Vue ([about&nbsp;sample&nbsp;app][about_gisogd]), Bootstrap
-    * OpenLayers ([pet&nbsp;project][budiswebgeoref] - [source&nbsp;code][budiswebgeoref_sourcecode]), Leaflet, Mapbox ([pet&nbsp;project][geovacanciesmap])
-* Cross-platform development with Apache&nbsp;Cordova ([pet&nbsp;project][ghandy])
-* Spatial data analysis
-* Web-based GIS services (Mapbox, QGIS Cloud)
-* Drone Photogrammetry data processing
+- ArcGIS, QGIS. Advanced&nbsp;GIS&nbsp;techniques
+- Python3 scripting
+  - pyqgis, arcpy, Fiona, geopandas, rasterio, GDAL
+  - pandas, plotly, multiprocessing, FastAPI, uvicorn, requests, Google&nbsp;Colab ([pet&nbsp;project][ics_lookup])
+  - tkinter, PyQt
+- SQL queries within SQLite, GeoPackage, MS&nbsp;SQL&nbsp;Server, PostgreSQL, MS&nbsp;Access&nbsp;databases
+- HTML, CSS, Javascript
+  - Vue ([about&nbsp;sample&nbsp;app][about_gisogd]), Bootstrap
+  - OpenLayers ([pet&nbsp;project][budiswebgeoref] - [source&nbsp;code][budiswebgeoref_sourcecode]), Leaflet, Mapbox ([pet&nbsp;project][geovacanciesmap])
+- Cross-platform development with Apache&nbsp;Cordova ([pet&nbsp;project][ghandy])
+- Spatial data analysis
+- Web-based GIS services (Mapbox, QGIS Cloud)
+- Drone Photogrammetry data processing
 
 </details>
 
@@ -53,13 +55,13 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 
 [Polyus][polyus] (Polyus Geoservice) &mdash; from 15.06.2022 to 15.03.2024
 
-* Implemented efficient data retrieval techniques to manage and organize geological research and literature data, resulting in a 45% reduction in search time for geologists
-* Utilized ArcGIS-ESRI to analyze archive data for specified areas, showcasing GIS experience.
-* Leveraged problem-solving skills and communication abilities to design visually appealing cartographic products, incorporating web-scraping and APIs for geographic data retrieval.
-* Collaborated with a team, utilizing GIS expertise to enhance the data request process by creating user-friendly QGIS plugins and python scripts.
-* Utilized GIS experience to create user-friendly database templates, manage geospatial data, and prepare basemaps for field data collection using Qfield.
-* Offered expert guidance to field geologists in Qfield and QGIS, facilitating precise geospatial data manipulation, cartographic outputs, and calculated rasters.
-* Employed GIS software to accurately model drainage basins, utilizing geospatial applications for dataset creation and clear communication of results.
+- Implemented efficient data retrieval techniques to manage and organize geological research and literature data, resulting in a 45% reduction in search time for geologists
+- Utilized ArcGIS-ESRI to analyze archive data for specified areas, showcasing GIS experience.
+- Leveraged problem-solving skills and communication abilities to design visually appealing cartographic products, incorporating web-scraping and APIs for geographic data retrieval.
+- Collaborated with a team, utilizing GIS expertise to enhance the data request process by creating user-friendly QGIS plugins and python scripts.
+- Utilized GIS experience to create user-friendly database templates, manage geospatial data, and prepare basemaps for field data collection using Qfield.
+- Offered expert guidance to field geologists in Qfield and QGIS, facilitating precise geospatial data manipulation, cartographic outputs, and calculated rasters.
+- Employed GIS software to accurately model drainage basins, utilizing geospatial applications for dataset creation and clear communication of results.
 
 </details>
 
@@ -68,13 +70,13 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 
 [Geological Research Institute (VSEGEI)][vsegei], Methodic dep. (Saint-Petersburg, Russia), field work in Magadan region (north-eastern Asia) &mdash; from 01.11.2016 to 15.06.2022
 
-* Conducted detailed analysis of remote sensing data, with a focus on satellite data, utilizing Python scripts for optimized work. Developed a standalone app, employing Python, to generate weather messages for SMS transmission to satellite phones.
-* Demonstrated expertise in spatial analysis and cartography by creating and preparing various maps in ArcGIS and QGIS.
-* Methodically organized and managed the GIS database, utilizing SQL for data storage.
-* Proficient in Python for data analysis, utilizing it to enhance efficiency and accuracy
-* Utilized CorelDraw, GIMP, and Inkscape for graphics creation
-* Methodically organized data stored in MS Access databases using SQL, in Excel and Word documents with Python.
-* Troubleshooting topology errors. Trained and consulted colleagues on GIS database management. Utilized 3D-visualization. Created technical reports.
+- Conducted detailed analysis of remote sensing data, with a focus on satellite data, utilizing Python scripts for optimized work. Developed a standalone app, employing Python, to generate weather messages for SMS transmission to satellite phones.
+- Demonstrated expertise in spatial analysis and cartography by creating and preparing various maps in ArcGIS and QGIS.
+- Methodically organized and managed the GIS database, utilizing SQL for data storage.
+- Proficient in Python for data analysis, utilizing it to enhance efficiency and accuracy
+- Utilized CorelDraw, GIMP, and Inkscape for graphics creation
+- Methodically organized data stored in MS Access databases using SQL, in Excel and Word documents with Python.
+- Troubleshooting topology errors. Trained and consulted colleagues on GIS database management. Utilized 3D-visualization. Created technical reports.
 
 </details>
 
@@ -84,20 +86,22 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 <summary>Master’s Degree in Geology</summary>
    
 [St. Petersburg state university, Institute of Earth sciences][spbu], Regional geology dep. &mdash; from 01.10.2016 to 15.06.2018
+
 </details>
 
 <details>
 <summary>Bachelor’s Degree in Geology</summary>
    
 [St. Petersburg state university, Institute of Earth sciences][spbu], Regional geology dep. &mdash; from 01.10.2012 to 15.06.2016
+
 </details>
 
 <details>
 <summary>Published papers</summary>
 
-* M. A. Shishkin (VSEGEI), S. I. Shkarubo (JSC MAGE),
-A. G. Konnov, G. V. Savel'ev (VSEGEI). Tectonics of the Polar Urals – Novaya Zemlya fold belts // [Regional Geology and Metallogeny, 2021. – № 86. – P. 5–10. – DOI: 10.52349/0869-7892_2021_86_05–10][vsegei_paper]
-* Saldin V., Konnov Artem, Saveliev Georgiy. The Lower Permian Marine Succession of Pay-Khoy: Correlations and Problems in Stratigraphy // [Sedimentary Earth Systems: Stratigraphy, Geochronology, Petroleum Resources. PROCEEDINGS Kazan Golovkinsky Stratigraphic Meeting, 2019. – P. 218–222. – DOI: 10.26352/D924F5037][kazan_paper]
+- M. A. Shishkin (VSEGEI), S. I. Shkarubo (JSC MAGE),
+  A. G. Konnov, G. V. Savel'ev (VSEGEI). Tectonics of the Polar Urals – Novaya Zemlya fold belts // [Regional Geology and Metallogeny, 2021. – № 86. – P. 5–10. – DOI: 10.52349/0869-7892_2021_86_05–10][vsegei_paper]
+- Saldin V., Konnov Artem, Saveliev Georgiy. The Lower Permian Marine Succession of Pay-Khoy: Correlations and Problems in Stratigraphy // [Sedimentary Earth Systems: Stratigraphy, Geochronology, Petroleum Resources. PROCEEDINGS Kazan Golovkinsky Stratigraphic Meeting, 2019. – P. 218–222. – DOI: 10.26352/D924F5037][kazan_paper]
 
 </details>
 
@@ -123,10 +127,10 @@ A. G. Konnov, G. V. Savel'ev (VSEGEI). Tectonics of the Polar Urals – Novaya Z
 <details>
 <summary>Russian | English | German</summary>
 
-* Russian (native)
-* English (fluent B2)
-* German (intermediate B1)
-* French (basic A1)
+- Russian (native)
+- English (fluent B2)
+- German (intermediate B1)
+- French (basic A1)
 
 </details>
 
