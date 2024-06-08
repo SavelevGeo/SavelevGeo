@@ -42,7 +42,6 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
   - OpenLayers ([pet&nbsp;project][budiswebgeoref] - [source&nbsp;code][budiswebgeoref_sourcecode]), Leaflet, Mapbox ([pet&nbsp;project][geovacanciesmap])
 - Cross-platform development with Apache&nbsp;Cordova ([pet&nbsp;project][ghandy])
 - Spatial data analysis
-- Web-based GIS services (Mapbox, QGIS Cloud)
 - Drone Photogrammetry data processing
 
 </details>
