@@ -29,7 +29,7 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 </details>
 
 <details>
-<summary>Key skils</summary>
+<summary>Key skills</summary>
 
 - ArcGIS, QGIS. Advanced&nbsp;GIS&nbsp;techniques
 - Python3 scripting
@@ -58,8 +58,8 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 - Utilized ArcGIS-ESRI to analyze archive data for specified areas, showcasing GIS experience.
 - Leveraged problem-solving skills and communication abilities to design visually appealing cartographic products, incorporating web-scraping and APIs for geographic data retrieval.
 - Collaborated with a team, utilizing GIS expertise to enhance the data request process by creating user-friendly QGIS plugins and python scripts.
-- Utilized GIS experience to create user-friendly database templates, manage geospatial data, and prepare basemaps for field data collection using Qfield.
-- Offered expert guidance to field geologists in Qfield and QGIS, facilitating precise geospatial data manipulation, cartographic outputs, and calculated rasters.
+- Utilized GIS experience to create user-friendly database templates, manage geospatial data, and prepare base maps for field data collection using QField.
+- Offered expert guidance to field geologists in QField and QGIS, facilitating precise geospatial data manipulation, cartographic outputs, and calculated rasters.
 - Employed GIS software to accurately model drainage basins, utilizing geospatial applications for dataset creation and clear communication of results.
 
 </details>
@@ -138,7 +138,7 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 <details>
 <summary>Bass | Private lessons | Hiking</summary>
    
-* Bass player at “Проект Спокойствие” (2012-2020) https://soundcloud.com/proekt_spokoistvie/
+* Bass player at “Projekt Spokojstvije” (2012-2020) https://soundcloud.com/proekt_spokoistvie/
 * Private geography, mathematics, chemistry lessons for school students (2013-2019)
 * Hiking enthusiast (four trips a year) (2000-2013)
 </details>
