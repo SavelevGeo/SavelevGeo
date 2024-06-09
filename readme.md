@@ -149,7 +149,7 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 <details>
 <summary>Bass | Private lessons | Hiking</summary>
    
-* Bass player at “Projekt Spokojstvije” (2012-2020) https://soundcloud.com/proekt_spokoistvie/
+* Bass player at “Projekt Spokojstvije” (2012-2020) [soundcloud][soundcloud]
 * Private geography, mathematics, chemistry lessons for school students (2013-2019)
 * Hiking enthusiast (four trips a year) (2000-2013)
 </details>
@@ -170,3 +170,4 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 [spbu]: https://earth.spbu.ru/en/
 [kazan_paper]: https://kpfu.ru/portal/docs/F_206914532/E_BOOK_D924_Proceedings.Kazan.pdf
 [vsegei_paper]: https://karpinskyinstitute.ru/ru/public/reggeology_met/content/2021/86/86_01.pdf
+[soundcloud]: https://soundcloud.com/proekt_spokoistvie/
