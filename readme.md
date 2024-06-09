@@ -16,7 +16,7 @@
 - [+79533473027](https://t.me/+79533473027)
 - [Personal Website (Notion)][notion]
 - [Xing][xing]
-- [GitHub][github]
+- [savelevgeo@GitHub][github]
 
 </details>
 
