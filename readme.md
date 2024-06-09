@@ -49,6 +49,18 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 ### Employment history
 
 <details>
+<summary>Resource Database Geologist</summary>
+
+[Nordgold][nordgold] (Nordgold Management) &mdash; from 01.04.2024 to present
+
+- Developed MSSQL database structure, speeding up the data upload process by 23%.
+- Created a set of python scripts for data integrity checks, jupyter notebooks for data analysis and uploading.
+- Set up a system of Power Query requests for data acquisition and management.
+- Managed data collection and storage, ensuring data quality and accuracy.
+
+</details>
+
+<details>
 <summary>Archive Data Specialist</summary>
 
 [Polyus][polyus] (Polyus Geoservice) &mdash; from 15.06.2022 to 15.03.2024
@@ -152,6 +164,7 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 [ics_lookup]: https://github.com/SavelevGeo/ics_lookup
 [geovacanciesmap]: https://savelevgeo.github.io/geovacancies-map/
 [ghandy]: https://github.com/SavelevGeo/ghandy
+[nordgold]: https://nordgold.com/
 [polyus]: https://polyus.com/en/
 [vsegei]: https://vsegei.ru/en/
 [spbu]: https://earth.spbu.ru/en/
