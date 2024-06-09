@@ -16,6 +16,7 @@
 - [+79533473027](https://t.me/+79533473027)
 - [Personal Website (Notion)][notion]
 - [Xing][xing]
+- [GitHub][github]
 
 </details>
 
@@ -158,6 +159,7 @@ I optimize the process by scripting in Python/VBA and running SQL queries for da
 
 [notion]: https://savelevgeo.notion.site/GEORGIJ-SAVELEV-6a3dd718ea0a4fb5b68941b5442fb678?pvs=4
 [xing]: https://www.xing.com/profile/Georgii_Savelev/web_profiles
+[github]: https://github.com/SavelevGeo
 [about_gisogd]: https://www.notion.so/savelevgeo/58c9ade28857400586f03edd1f9b3a19?v=9953fe4674f8466398ce99afe3ce26ac
 [budiswebgeoref]: https://bugiswebgeoref.netlify.app/
 [budiswebgeoref_sourcecode]: https://github.com/SavelevGeo/SelfGeoRef
