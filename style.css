@@ -86,3 +86,7 @@ a:active {
 .contacts li:nth-of-type(4) {
   order: 4;
 }
+
+@media print {
+    details { break-inside: avoid; } /* page-break-after works, as well */
+}
