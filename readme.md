@@ -8,6 +8,7 @@
 ## GEORGIJ SAVELEV
 
 <span id="this_as_webpage">this cv: [as webpage](https://savelevgeo.github.io/SavelevGeo/)</span>
+<span>[as pdf](https://github.com/SavelevGeo/SavelevGeo/blob/main/Georgij%20Savelev.pdf)</span>
 
 <details class="contacts" id="contacts">
 <summary>Contacts</summary>
