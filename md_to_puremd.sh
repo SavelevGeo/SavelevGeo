@@ -1,0 +1,1 @@
+pandoc --from=html --to=markdown-raw_html-native_divs index.html -o "Georgij Savelev.md"
