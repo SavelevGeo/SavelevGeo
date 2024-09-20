@@ -6,12 +6,166 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Georgij Savelev</title>
   <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
 <body>
@@ -23,117 +177,219 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
 </head>
 <h2 id="georgij-savelev">GEORGIJ SAVELEV</h2>
-<p>this cv: <span id="this_as_webpage"><a href="https://savelevgeo.github.io/SavelevGeo/">as webpage</a></span> <span><a href="https://github.com/SavelevGeo/SavelevGeo/blob/main/Georgij%20Savelev.pdf">as pdf</a></span></p>
+<p>this cv: <span id="this_as_webpage"><a
+href="https://savelevgeo.github.io/SavelevGeo/">as webpage</a></span>
+<span><a
+href="https://github.com/SavelevGeo/SavelevGeo/blob/main/Georgij%20Savelev.pdf">as
+pdf</a></span></p>
 <details class="contacts" id="contacts">
-<p><summary>Contacts</summary></p>
+<summary>
+Contacts
+</summary>
 <ul>
-<li><a href="mailto:savelevgeo.post@gmail.com">savelevgeo.post@gmail.com</a></li>
+<li><a
+href="mailto:savelevgeo.post@gmail.com">savelevgeo.post@gmail.com</a></li>
 <li><a href="https://t.me/+79533473027">+79533473027</a></li>
-<li><a href="https://savelevgeo.notion.site/GEORGIJ-SAVELEV-6a3dd718ea0a4fb5b68941b5442fb678?pvs=4">Personal Website (Notion)</a></li>
-<li><a href="https://www.xing.com/profile/Georgii_Savelev/web_profiles">Xing</a></li>
+<li><a
+href="https://savelevgeo.notion.site/GEORGIJ-SAVELEV-6a3dd718ea0a4fb5b68941b5442fb678?pvs=4">Personal
+Website (Notion)</a></li>
+<li><a
+href="https://www.xing.com/profile/Georgii_Savelev/web_profiles">Xing</a></li>
 <li><a href="https://github.com/SavelevGeo">savelevgeo@GitHub</a></li>
 </ul>
 </details>
 <details id="personal_statement">
-<p><summary>Personal statement</summary></p>
-<p>Motivated and experienced GIS professional with technical knowledge in ESRI ArcGIS and QGIS. Specializing in the development of web GIS solutions for geological projects, I am a Database Specialist skilled in collecting and analyzing geospatial data using advanced Geographic Information Systems (GIS) techniques.</p>
-<p>I optimize the process by scripting in Python/VBA and running SQL queries for data tracking and geographic data manipulation. With five years of experience in the field, I have successfully completed numerous projects and delivered high-quality results, integrating GIS into geology.</p>
+<summary>
+Personal statement
+</summary>
+<p>Motivated and experienced GIS professional with technical knowledge
+in ESRI ArcGIS and QGIS. Specializing in the development of web GIS
+solutions for geological projects, I am a Database Specialist skilled in
+collecting and analyzing geospatial data using advanced Geographic
+Information Systems (GIS) techniques.</p>
+<p>I optimize the process by scripting in Python/VBA and running SQL
+queries for data tracking and geographic data manipulation. With five
+years of experience in the field, I have successfully completed numerous
+projects and delivered high-quality results, integrating GIS into
+geology.</p>
 </details>
 <details>
-<p><summary>Key skills</summary></p>
+<summary>
+Key skills
+</summary>
 <ul>
 <li>ArcGIS, QGIS. Advanced GIS techniques</li>
 <li>Python3 scripting
 <ul>
 <li>pyqgis, arcpy, Fiona, geopandas, rasterio, GDAL</li>
-<li>pandas, plotly, multiprocessing, FastAPI, uvicorn, requests, Google Colab (<a href="https://github.com/SavelevGeo/ics_lookup">pet project</a>)</li>
+<li>pandas, plotly, multiprocessing, FastAPI, uvicorn, requests,
+Google Colab (<a
+href="https://github.com/SavelevGeo/ics_lookup">pet project</a>)</li>
 <li>tkinter, PyQt</li>
 </ul></li>
-<li>SQL queries within SQLite, GeoPackage, MS SQL Server, PostgreSQL, MS Access databases</li>
+<li>SQL queries within SQLite, GeoPackage, MS SQL Server, PostgreSQL,
+MS Access databases</li>
 <li>HTML, CSS, Javascript
 <ul>
-<li>Vue (<a href="https://www.notion.so/savelevgeo/58c9ade28857400586f03edd1f9b3a19?v=9953fe4674f8466398ce99afe3ce26ac">about sample app</a>), Bootstrap</li>
-<li>OpenLayers (<a href="https://bugiswebgeoref.netlify.app/">pet project</a> - <a href="https://github.com/SavelevGeo/SelfGeoRef">source code</a>), Leaflet, Mapbox (<a href="https://savelevgeo.github.io/geovacancies-map/">pet project</a>)</li>
+<li>Vue (<a
+href="https://www.notion.so/savelevgeo/58c9ade28857400586f03edd1f9b3a19?v=9953fe4674f8466398ce99afe3ce26ac">about sample app</a>),
+Bootstrap</li>
+<li>OpenLayers (<a
+href="https://bugiswebgeoref.netlify.app/">pet project</a> - <a
+href="https://github.com/SavelevGeo/SelfGeoRef">source code</a>),
+Leaflet, Mapbox (<a
+href="https://savelevgeo.github.io/geovacancies-map/">pet project</a>)</li>
 </ul></li>
-<li>Cross-platform development with Apache Cordova (<a href="https://github.com/SavelevGeo/ghandy">pet project</a>)</li>
+<li>Cross-platform development with Apache Cordova (<a
+href="https://github.com/SavelevGeo/ghandy">pet project</a>)</li>
 <li>Spatial data analysis</li>
 <li>Drone Photogrammetry data processing</li>
 </ul>
 </details>
 <h3 id="employment-history">Employment history</h3>
 <details>
-<p><summary>Resource Database Geologist</summary></p>
-<p><a href="https://nordgold.com/">Nordgold</a> (Nordgold Management) — from 01.04.2024 to present</p>
+<summary>
+Resource Database Geologist
+</summary>
+<p><a href="https://nordgold.com/">Nordgold</a> (Nordgold Management) —
+from 01.04.2024 to present</p>
 <ul>
-<li>Developed MSSQL database structure, speeding up the data upload process by 23%.</li>
-<li>Created a set of python scripts for data integrity checks, jupyter notebooks for data analysis and uploading.</li>
-<li>Set up a system of Power Query requests for data acquisition and management.</li>
-<li>Managed data collection and storage, ensuring data quality and accuracy.</li>
+<li>Developed MSSQL database structure, speeding up the data upload
+process by 23%.</li>
+<li>Created a set of python scripts for data integrity checks, jupyter
+notebooks for data analysis and uploading.</li>
+<li>Set up a system of Power Query requests for data acquisition and
+management.</li>
+<li>Managed data collection and storage, ensuring data quality and
+accuracy.</li>
 </ul>
 </details>
 <details>
-<p><summary>Archive Data Specialist</summary></p>
-<p><a href="https://polyus.com/en/">Polyus</a> (Polyus Geoservice) — from 15.06.2022 to 15.03.2024</p>
+<summary>
+Archive Data Specialist
+</summary>
+<p><a href="https://polyus.com/en/">Polyus</a> (Polyus Geoservice) —
+from 15.06.2022 to 15.03.2024</p>
 <ul>
-<li>Implemented efficient data retrieval techniques to manage and organize geological research and literature data, resulting in a 45% reduction in search time for geologists</li>
-<li>Utilized ArcGIS-ESRI to analyze archive data for specified areas, showcasing GIS experience.</li>
-<li>Leveraged problem-solving skills and communication abilities to design visually appealing cartographic products, incorporating web-scraping and APIs for geographic data retrieval.</li>
-<li>Collaborated with a team, utilizing GIS expertise to enhance the data request process by creating user-friendly QGIS plugins and python scripts.</li>
-<li>Utilized GIS experience to create user-friendly database templates, manage geospatial data, and prepare base maps for field data collection using QField.</li>
-<li>Offered expert guidance to field geologists in QField and QGIS, facilitating precise geospatial data manipulation, cartographic outputs, and calculated rasters.</li>
-<li>Employed GIS software to accurately model drainage basins, utilizing geospatial applications for dataset creation and clear communication of results.</li>
+<li>Implemented efficient data retrieval techniques to manage and
+organize geological research and literature data, resulting in a 45%
+reduction in search time for geologists</li>
+<li>Utilized ArcGIS-ESRI to analyze archive data for specified areas,
+showcasing GIS experience.</li>
+<li>Leveraged problem-solving skills and communication abilities to
+design visually appealing cartographic products, incorporating
+web-scraping and APIs for geographic data retrieval.</li>
+<li>Collaborated with a team, utilizing GIS expertise to enhance the
+data request process by creating user-friendly QGIS plugins and python
+scripts.</li>
+<li>Utilized GIS experience to create user-friendly database templates,
+manage geospatial data, and prepare base maps for field data collection
+using QField.</li>
+<li>Offered expert guidance to field geologists in QField and QGIS,
+facilitating precise geospatial data manipulation, cartographic outputs,
+and calculated rasters.</li>
+<li>Employed GIS software to accurately model drainage basins, utilizing
+geospatial applications for dataset creation and clear communication of
+results.</li>
 </ul>
 </details>
 <details>
-<p><summary>Geologist</summary></p>
-<p><a href="https://vsegei.ru/en/">Geological Research Institute (VSEGEI)</a>, Methodic dep. (Saint-Petersburg, Russia), field work in Magadan region (north-eastern Asia) — from 01.11.2016 to 15.06.2022</p>
+<summary>
+Geologist
+</summary>
+<p><a href="https://vsegei.ru/en/">Geological Research Institute
+(VSEGEI)</a>, Methodic dep. (Saint-Petersburg, Russia), field work in
+Magadan region (north-eastern Asia) — from 01.11.2016 to 15.06.2022</p>
 <ul>
-<li>Conducted detailed analysis of remote sensing data, with a focus on satellite data, utilizing Python scripts for optimized work. Developed a standalone app, employing Python, to generate weather messages for SMS transmission to satellite phones.</li>
-<li>Demonstrated expertise in spatial analysis and cartography by creating and preparing various maps in ArcGIS and QGIS.</li>
-<li>Methodically organized and managed the GIS database, utilizing SQL for data storage.</li>
-<li>Proficient in Python for data analysis, utilizing it to enhance efficiency and accuracy</li>
+<li>Conducted detailed analysis of remote sensing data, with a focus on
+satellite data, utilizing Python scripts for optimized work. Developed a
+standalone app, employing Python, to generate weather messages for SMS
+transmission to satellite phones.</li>
+<li>Demonstrated expertise in spatial analysis and cartography by
+creating and preparing various maps in ArcGIS and QGIS.</li>
+<li>Methodically organized and managed the GIS database, utilizing SQL
+for data storage.</li>
+<li>Proficient in Python for data analysis, utilizing it to enhance
+efficiency and accuracy</li>
 <li>Utilized CorelDraw, GIMP, and Inkscape for graphics creation</li>
-<li>Methodically organized data stored in MS Access databases using SQL, in Excel and Word documents with Python.</li>
-<li>Troubleshooting topology errors. Trained and consulted colleagues on GIS database management. Utilized 3D-visualization. Created technical reports.</li>
+<li>Methodically organized data stored in MS Access databases using SQL,
+in Excel and Word documents with Python.</li>
+<li>Troubleshooting topology errors. Trained and consulted colleagues on
+GIS database management. Utilized 3D-visualization. Created technical
+reports.</li>
 </ul>
 </details>
 <h3 id="education-and-science">Education and science</h3>
 <details>
-<p><summary>Master’s Degree in Geology</summary></p>
-<p><a href="https://earth.spbu.ru/en/">St. Petersburg state university, Institute of Earth sciences</a>, Regional geology dep. — from 01.10.2016 to 15.06.2018</p>
+<summary>
+Master’s Degree in Geology
+</summary>
+<p><a href="https://earth.spbu.ru/en/">St. Petersburg state university,
+Institute of Earth sciences</a>, Regional geology dep. — from 01.10.2016
+to 15.06.2018</p>
 </details>
 <details>
-<p><summary>Bachelor’s Degree in Geology</summary></p>
-<p><a href="https://earth.spbu.ru/en/">St. Petersburg state university, Institute of Earth sciences</a>, Regional geology dep. — from 01.10.2012 to 15.06.2016</p>
+<summary>
+Bachelor’s Degree in Geology
+</summary>
+<p><a href="https://earth.spbu.ru/en/">St. Petersburg state university,
+Institute of Earth sciences</a>, Regional geology dep. — from 01.10.2012
+to 15.06.2016</p>
 </details>
 <details>
-<p><summary>Published papers</summary></p>
+<summary>
+Published papers
+</summary>
 <ul>
-<li>M. A. Shishkin (VSEGEI), S. I. Shkarubo (JSC MAGE), A. G. Konnov, G. V. Savel’ev (VSEGEI). Tectonics of the Polar Urals – Novaya Zemlya fold belts // <a href="https://karpinskyinstitute.ru/ru/public/reggeology_met/content/2021/86/86_01.pdf">Regional Geology and Metallogeny, 2021. – № 86. – P. 5–10. – DOI: 10.52349/0869-7892_2021_86_05–10</a></li>
-<li>Saldin V., Konnov Artem, Saveliev Georgiy. The Lower Permian Marine Succession of Pay-Khoy: Correlations and Problems in Stratigraphy // <a href="https://kpfu.ru/portal/docs/F_206914532/E_BOOK_D924_Proceedings.Kazan.pdf">Sedimentary Earth Systems: Stratigraphy, Geochronology, Petroleum Resources. PROCEEDINGS Kazan Golovkinsky Stratigraphic Meeting, 2019. – P. 218–222. – DOI: 10.26352/D924F5037</a></li>
+<li>M. A. Shishkin (VSEGEI), S. I. Shkarubo (JSC MAGE), A. G. Konnov, G.
+V. Savel’ev (VSEGEI). Tectonics of the Polar Urals – Novaya Zemlya fold
+belts // <a
+href="https://karpinskyinstitute.ru/ru/public/reggeology_met/content/2021/86/86_01.pdf">Regional
+Geology and Metallogeny, 2021. – № 86. – P. 5–10. – DOI:
+10.52349/0869-7892_2021_86_05–10</a></li>
+<li>Saldin V., Konnov Artem, Saveliev Georgiy. The Lower Permian Marine
+Succession of Pay-Khoy: Correlations and Problems in Stratigraphy // <a
+href="https://kpfu.ru/portal/docs/F_206914532/E_BOOK_D924_Proceedings.Kazan.pdf">Sedimentary
+Earth Systems: Stratigraphy, Geochronology, Petroleum Resources.
+PROCEEDINGS Kazan Golovkinsky Stratigraphic Meeting, 2019. – P. 218–222.
+– DOI: 10.26352/D924F5037</a></li>
 </ul>
 </details>
-<h3 id="other-skills-and-achievements">Other skills and achievements</h3>
+<h3 id="other-skills-and-achievements">Other skills and
+achievements</h3>
 <details>
-<p><summary>Drone mapping</summary></p>
+<summary>
+Drone mapping
+</summary>
 <ul>
-<li>Demonstrated expertise in drone mapping and geological research, proficiently utilizing GIS workflows.</li>
-<li>Produced 10 detailed orthomosaics, covering up to 5 km2, and prepared technical reports with precision.</li>
+<li>Demonstrated expertise in drone mapping and geological research,
+proficiently utilizing GIS workflows.</li>
+<li>Produced 10 detailed orthomosaics, covering up to 5 km2, and
+prepared technical reports with precision.</li>
 </ul>
 </details>
 <details>
-<p><summary>Field expeditions organization and conduction</summary></p>
+<summary>
+Field expeditions organization and conduction
+</summary>
 <ul>
-<li>Organized and conducted field expeditions, including employee recruitment and training sessions.</li>
-<li>Successfully led two three-month long autonomous expeditions as a capable team leader, overseeing 4 subordinates.</li>
-<li>Contributed as a valuable team member in five two-to-three month long geological projects, showcasing strong field proficiency and leadership qualities.</li>
+<li>Organized and conducted field expeditions, including employee
+recruitment and training sessions.</li>
+<li>Successfully led two three-month long autonomous expeditions as a
+capable team leader, overseeing 4 subordinates.</li>
+<li>Contributed as a valuable team member in five two-to-three month
+long geological projects, showcasing strong field proficiency and
+leadership qualities.</li>
 </ul>
 </details>
 <h3 id="language-skills">Language skills</h3>
 <details>
-<p><summary>Russian | English | German</summary></p>
+<summary>
+Russian | English | German
+</summary>
 <ul>
 <li>Russian (native)</li>
 <li>English (fluent B2)</li>
@@ -143,10 +399,14 @@
 </details>
 <h3 id="extracurricular-activities">Extracurricular activities</h3>
 <details>
-<p><summary>Bass | Private lessons | Hiking</summary></p>
+<summary>
+Bass | Private lessons | Hiking
+</summary>
 <ul>
-<li>Bass player at “Projekt Spokojstvije” (2012-2020) <a href="https://soundcloud.com/proekt_spokoistvie/">soundcloud</a></li>
-<li>Private geography, mathematics, chemistry lessons for school students (2013-2019)</li>
+<li>Bass player at “Projekt Spokojstvije” (2012-2020) <a
+href="https://soundcloud.com/proekt_spokoistvie/">soundcloud</a></li>
+<li>Private geography, mathematics, chemistry lessons for school
+students (2013-2019)</li>
 <li>Hiking enthusiast (four trips a year) (2000-2013)</li>
 </ul>
 </details>
